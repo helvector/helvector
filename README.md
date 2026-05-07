@@ -1,20 +1,20 @@
 # Hi, I'm Alastair · @helvector 👋
 
-> Building generative AI creative pipelines — image, video, multimodal, and everything in between.
+> Building generative AI tooling for creative production — pipelines, prompt infra, and the small tools that make them usable.
 
 ---
 
 ## What I work on
 
-🎨 **Image generation** — BFL Flux workflows, ComfyUI custom nodes, and multimodal pipelines for AI image creation and manipulation
+🎬 **Creative pipelines** — image, video, and multimodal workflows; 3D as a control surface for generative output, not as a final render
 
-🎬 **Video generation** — agentic video workflows with Kling, Seedance, and other video models; using 3D as a control surface (not final render) to drive generative output
+📝 **Prompt infrastructure** — co-writers, libraries, and frameworks that turn prompt craft into something teams can actually share and reuse
 
-📝 **Prompt engineering** — crafting and refining prompts for LLMs and image/video models; multimodal (image-to-text, text-to-image) experimentation
+🎨 **Production tooling** — small, sharp utilities for review, comparison, and brand consistency across creative output
 
-🤖 **AI automations** — MCP-based agentic workflows, Claude + Blender pipelines, and tools that connect generative models to real production processes
+🤖 **Agentic workflows** — MCP-based automations, Claude + Blender pipelines, and connective tissue between generative models and real production
 
-🔬 **Multimodal AI** — bridging vision models, language models, and creative tooling
+🧪 **Side experiments** — vibe-coded apps, smart-home tinkering, and whatever else is pulling at me this week
 
 ---
 
@@ -25,21 +25,21 @@
 ![Kling](https://img.shields.io/badge/Kling-1A1A2E?style=flat&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Google DeepMind](https://img.shields.io/badge/DeepMind-FF6F00?style=flat&logo=google&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-6554C0?style=flat&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## Current interests
 
 - 3D as a control layer for video model output (Blender → Kling / Seedance)
-- Agentic camera control via MCP + Claude
-- BFL Flux custom workflows and LoRA training
+- Agentic camera and scene control via MCP
+- Prompt libraries that survive contact with a team
+- Brand-consistent generative output at production scale
 - Multimodal prompt design (vision ↔ language)
-- Generative AI for brand and advertising production
 
 ---
 
