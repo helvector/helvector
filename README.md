@@ -14,7 +14,7 @@
 
 🤖 **Agentic workflows** — MCP-based automations, Claude + Blender pipelines, and connective tissue between generative models and real production
 
-🧪 **Side experiments** — vibe-coded apps, smart-home tinkering, and whatever else is pulling at me this week
+🧪 **Side experiments** — experimental apps and workflows, smart-home tinkering, and whatever else is pulling at me this week
 
 ---
 
