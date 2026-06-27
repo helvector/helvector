@@ -47,15 +47,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Cloud, frontend & deploy**
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
 ## Current interests
 
+- Prototype-to-production flow — rapid builds on Replit, promoting the winners to Vercel / Cloud Run
 - 3D as a control layer for video model output (Blender → Kling / Seedance / Veo)
 - Agentic camera and scene control via MCP
 - Prompt libraries that survive contact with a team
